@@ -13,7 +13,7 @@
 - 🔭 Currently working on **MILAP (Mutual Integration Locating At-risk Person)**  
 - 🛠️ Experienced in **Frontend Development, UI/UX, and Web Performance Optimization**  
 - 🎯 Learning **Node.js, Express.js, and Backend Development**  
-- 📄 Check out my **Resume** 👉 [app.rezi.ai/s/JNwGattXK5voc7EMa4II](https://app.rezi.ai/s/JNwGattXK5voc7EMa4II)  
+- 📄 Check out my **PortFolio** 👉 [https://haadi-portfolio.vercel.app)  
 
 ---
 
