@@ -1,19 +1,20 @@
 <h1 align="center">Hi 👋, I'm Abdul Hadi</h1>
-<h3 align="center">Frontend Developer | WordPress Expert | MERN Stack Enthusiast</h3>
+<h3 align="center">Frontend Developer | WordPress Expert | MERN Stack Enthusiast | Laravel Developer</h3>
 
 <p align="center">
-🚀 Passionate about building interactive and scalable web applications  
-💡 Always eager to learn new technologies and expand my skill set  
-🎯 Aspiring Full-Stack Developer with expertise in **React.js, Laravel, WordPress, PHP, and MERN Stack**
+🌐 Crafting modern, interactive & scalable digital experiences <br>
+⚡ Turning ideas into functional, user-friendly web solutions <br>
+🚀 On a journey to become a Full-Stack Developer mastering React.js, Laravel, WordPress, PHP & the MERN Stack  
 </p>
 
 ---
 
 ### 🌟 About Me  
-- 🔭 Currently working on **MILAP (Mutual Integration Locating At-risk Person)**  
-- 🛠️ Experienced in **Frontend Development, UI/UX, and Web Performance Optimization**  
-- 🎯 Learning **Node.js, Express.js, and Backend Development**  
-- 📄 Check out my **PortFolio** 👉 [https://haadi-portfolio.vercel.app)  
+- 🛠️ Skilled in **Frontend Development, UI/UX, WordPress, Laravel & Web Performance Optimization**  
+- 🎯 Currently expanding knowledge in **Node.js, Express.js & Backend Development**  
+- 💼 Experienced in **Freelance Projects** – delivering customized websites & digital solutions for clients  
+- 💡 Love solving problems and learning cutting-edge technologies  
+- 📄 Explore my **Portfolio** 👉 [haadi-portfolio.vercel.app](https://haadi-portfolio.vercel.app)  
 
 ---
 
@@ -26,6 +27,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="50" height="50"/> 
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="TailwindCSS" width="50" height="50"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="50" height="50"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="Laravel" width="50" height="50"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="50" height="50"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="50" height="50"/> 
 </p>
@@ -47,8 +49,5 @@
 
 ---
 
-
-
-
-💻 **Let's collaborate and build something awesome together!** 🚀  
-Feel free to **connect** and **discuss** anything tech-related! 😊  
+💻 **Let’s build something amazing together!** 🚀  
+Always open for **collaborations, freelance projects & tech discussions** 😊
